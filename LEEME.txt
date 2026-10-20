@@ -1,0 +1,29 @@
+PELQUERÍA 200 CUT — SITIO WEB HTML + CSS
+
+Archivos:
+- index.html             Página principal responsive
+- style.css              Estilos de todo el sitio
+- logo.svg               Logo original (imagen SVG)
+- privacidad.html        Política de privacidad
+- condiciones.html       Condiciones informativas
+
+Cómo usarlo:
+1) Descomprimí el ZIP.
+2) Abrí index.html con tu navegador para ver el sitio.
+3) Subí TODOS los archivos, sin cambiar los nombres, a tu hosting en la misma carpeta.
+4) Activá HTTPS con tu dominio antes de dirigir anuncios de Google Ads.
+
+Contacto configurado:
+WhatsApp: +54 9 11 6030-8810  => https://wa.me/5491160308810
+Teléfono adicional: 212555511 (revisar que sea efectivamente un teléfono).
+
+IMPORTANTE ANTES DE PUBLICAR:
+- Confirmá que el servicio es realmente A DOMICILIO.
+- Confirmá cobertura en Buenos Aires, CABA y zonas del GBA.
+- Confirmá que todos los servicios publicados se ofrecen.
+- Revisá el número adicional 212555511; si no es un teléfono, corregilo.
+- Completá/verificá los datos reales del prestador comercial y cualquier información que exija tu jurisdicción.
+- Las fotos son ILUSTRATIVAS y se cargan desde images.pexels.com. Tienen licencia Pexels para uso comercial: https://www.pexels.com/license/
+  Para evitar dependencia externa, podés descargar esas fotos de Pexels y modificar las rutas de imagen.
+- La política de privacidad describe esta versión SIN Google Analytics, píxeles ni formularios propios. Si instalás seguimiento o formularios, actualizala.
+- La aprobación de Google Ads NO se puede garantizar. Depende de la revisión de Google, los anuncios, el dominio y la veracidad de la información.
